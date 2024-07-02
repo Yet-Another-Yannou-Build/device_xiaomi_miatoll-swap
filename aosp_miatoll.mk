@@ -18,7 +18,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := lineage_miatoll
+PRODUCT_NAME := aosp_miatoll
 PRODUCT_DEVICE := miatoll
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := SM6250
